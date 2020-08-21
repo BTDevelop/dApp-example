@@ -1,0 +1,14 @@
+{
+    "ethcode.keystore.keyStorePath": "/home/0mkar/.vscode/extensions/ethential.ethcode-0.1.12",
+    "ethcode.userConfig.defaultAccount": {
+        "checksumAddress": "0xE5A1Dcc97f3af2B06f41fF0FC956854cFb9ce794",
+        "label": "0xe5a1dcc97f3af2b06f41ff0fc956854cfb9ce794",
+        "pubAddress": "0xe5a1dcc97f3af2b06f41ff0fc956854cfb9ce794",
+        "type": "Local",
+        "value": "0xE5A1Dcc97f3af2B06f41fF0FC956854cFb9ce794"
+    },
+    "ethcode.userConfig.compiler": {
+        "lang": "solidity",
+        "solidityCompilerVersion": "latest"
+    }
+}
