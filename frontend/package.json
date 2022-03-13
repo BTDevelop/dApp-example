@@ -11,7 +11,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "uuidv4": "^6.2.0"
+    "uuidv4": "^6.2.12"
   },
   "scripts": {
     "start": "react-scripts start",
